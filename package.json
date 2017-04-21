@@ -1,0 +1,15 @@
+{
+  "name": "snmple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Miles Goodings",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cidr-range": "^1.0.6",
+    "snmp-native": "^1.1.0",
+    "yargs": "^7.1.0"
+  }
+}
